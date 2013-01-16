@@ -1,0 +1,1955 @@
+    <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+    "http://www.w3.org/TR/html4/strict.dtd">
+    <html>
+
+<head>
+<meta name="google-site-verification" content="PfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs" />
+
+  <title>Brave New World Quotes By Aldous Huxley</title>
+  
+  <meta name="description"
+    content="194 quotes from Brave New World: 'Words can be like X-rays if you use them properly -- they’ll go through anything. You read and you’re pierced.'" />
+  <meta name="verify-v1" content="cEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=" />
+  <meta name="apple-itunes-app" content="app-id=355833469"/>
+
+
+  <link href="http://s.gr-assets.com/assets/goodreads-627248117d2216d6158e35a5e8ebb986.css" media="screen" rel="stylesheet" type="text/css" />
+  <script src="http://s.gr-assets.com/assets/application-50cccb83030ee2fed12502b43616f5c9.js" type="text/javascript"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="lqmnqce7t28RmOih3b27H/0xGkzD3OdjjnCA4e8qpK4=" name="csrf-token" />
+
+    <link rel="canonical" href="http://www.goodreads.com/work/quotes/3204877-brave-new-world" />
+
+  <!--[if lte IE 6]>
+    <link href="http://s.gr-assets.com/assets/ie6-ddca8056d44598686b8b37242ef1f168.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+//<![CDATA[
+
+      try {
+        document.execCommand("BackgroundImageCache", false, true);
+      }
+      catch(err) {}
+
+//]]>
+</script>  <![endif]-->
+
+  <!--[if lt IE 9]>
+    <link href="http://s.gr-assets.com/assets/ie-4485c9f9917c01542e508761c4d099ba.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+  <!--[if lt IE 8]>
+    <link href="http://s.gr-assets.com/assets/common_images_ie-38f2f0c8df2a0f1134e0974ae66b3cb9.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+
+  <!--[if gte IE 8]><!-->
+  <link href="http://s.gr-assets.com/assets/common_images-370261aec28b4d6c3f662a242a30f069.css" media="screen" rel="stylesheet" type="text/css" />
+  <!--<![endif]-->
+
+  
+  
+  
+  
+  
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Goodreads">
+
+</head>
+
+
+<body>
+<div class="content">
+  
+
+    <div class='uitext' id='siteheader'>
+<div class='mainContent'>
+<ul class='nav' id='usernav'>
+<li>
+<strong>
+<a href="/user/new" class="navlink" rel="nofollow">register</a>
+</strong>
+</li>
+<li>
+<a href="/about/how_it_works" class="navlink" rel="nofollow">tour</a>
+</li>
+<li>
+<a href="/user/sign_in?returnurl=%2Fwork%2Fquotes%2F3204877-brave-new-world" class="navlink" rel="nofollow">sign in</a>
+</li>
+</ul>
+<div id='logo'>
+<a href='/'>
+<img alt="Goodreads: Book reviews, recommendations, and discussion" border="0" src="http://s.gr-assets.com/assets/layout/goodreads_logo_140-5b3e47356388131c1699f0baca28a234.png" />
+</a>
+</div>
+<div id='sitesearch'>
+<form accept-charset="UTF-8" action="/search" method="get" name="headerSearchForm"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+<div class='auto_complete_field_wrapper'>
+<input id="sitesearch_field" name="query" type="text" />        <script type="text/javascript" charset="utf-8">
+          setDefaultText('sitesearch_field', 'Title / Author / ISBN')
+        </script>
+
+<div id='sitesearch_autocomplete'></div>
+<img alt="Loading-trans" class="loading" id="sitesearch_field_loading" src="http://s.gr-assets.com/assets/loading-trans-ff263fd8cb3b52205aacb9f5b25f82c8.gif" style="display: none" />
+</div>
+<a class="submitLink" href="#" onclick="clearDefaultText('sitesearch_field', 'Title / Author / ISBN'); document.headerSearchForm.submit(); return false;"><img alt="search" src="http://s.gr-assets.com/assets/layout/magnifying_glass-f6b50ce529bb372c2503aa1c685a2505.png" title="Title / Author / ISBN" width="16" /></a>
+</form>
+</div>
+
+<ul class='nav' id='sitenav'>
+<li>
+<a href="/" class="navlink">Home</a>
+</li>
+<li>
+<a href="/review/list" class="navlink" rel="nofollow">My Books</a>
+</li>
+<li>
+<a href="/friend" class="navlink" rel="nofollow">Friends</a>
+</li>
+<li>
+<a href="/recommendations" class="navlink" rel="nofollow">Recommendations</a>
+</li>
+<li class='withsubnav'>
+<div class='subnav'>
+<ul class='content'>
+<li>
+<a href="/genres">genres</a>
+</li>
+<li>
+<a href="/list" title="Popular lists of books">listopia</a>
+</li>
+<li>
+<a href="/giveaway" title="Free book giveaways">giveaways</a>
+</li>
+<li>
+<a href="/book/popular_by_date/2013/1" title="Popular New Releases">popular</a>
+</li>
+<li>
+<a href="/voice">goodreads voice</a>
+</li>
+<li>
+<a href="/ebooks">ebooks</a>
+</li>
+</ul>
+<ul class='content'>
+<li>
+<b>
+fun
+</b>
+</li>
+<li>
+<a href="/trivia">trivia</a>
+</li>
+<li>
+<a href="/quizzes">quizzes</a>
+</li>
+<li>
+<a href="/quotes">quotes</a>
+</li>
+</ul>
+<ul class='content'>
+<li>
+<b>
+community
+</b>
+</li>
+<li>
+<a href="/group">groups</a>
+</li>
+<li>
+<a href="/story">creative writing</a>
+</li>
+<li>
+<a href="/user/online_now" rel="nofollow">people</a>
+</li>
+<li>
+<a href="/event">events</a>
+</li>
+</ul>
+</div>
+<a href="/book" class="navlink" title="Explore books">Explore</a>
+<a class="subnavlink inlineblock" href="#" onclick="HeaderNav.toggleSubnav({target: this}); return false;">&nbsp;</a>
+</li>
+</ul>
+</div>
+</div>
+
+
+  
+
+  <div class="mainContentContainer ">
+    
+    <div class="mainContent">
+      
+
+
+<script type="text/javascript"
+        src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+
+<script type="text/javascript">
+    GS_googleAddAdSenseService("ca-pub-7284881071421289")
+    GS_googleEnableAllServices()
+</script>
+
+<script type="text/javascript">
+    GA_googleAddAttr("sid", "c9a0528fc50c8ffa5aba21035d80b93a")
+        GA_googleAddAttr("resource", "work_quotes_3204877");
+</script>
+
+
+        <div id="premiumAdTop">
+          
+  <script language="JavaScript">
+    GA_googleAddSlot("ca-pub-7284881071421289", "Quotes_Top_SignedOut")
+  </script>
+  <script language="JavaScript">
+    GA_googleFetchAds()
+  </script>
+  <script language="JavaScript">
+    GA_googleFillSlot("Quotes_Top_SignedOut")
+  </script>
+
+
+        </div>
+
+      <div class="mainContentFloat">
+        <div id="flashContainer">
+
+</div>
+        <div id='connectPrompt' style='display:none;'>
+<div class='connectPromptHolder'>
+<div class='vcenteredLineOfBlocks' style='margin:15px auto 0;'>
+<div class='regPromptText'>
+<div class='title'>
+
+</div>
+<div class='subtext test_styles'>
+Get quotes daily
+</div>
+</div>
+<div id='facebookRegPrompt'>
+<a class="fbButton connectPromptButton" href="#" onclick="GR_Facebook.loginAndRedirect('', '', 'fb_connect_prompt_quote_reg_prompt'); return false;"><img alt="Fb-icon" src="http://s.gr-assets.com/assets/facebook/fb-icon-cc0267b525a5145dd8c6a074572f1cbb.png" />  Sign in with Facebook</a>
+<div class='connectPromptAlternates'>
+<a href="/user/sign_up?connect_prompt=true&amp;qotd_option=true">Sign in <br/> options</a>
+</div>
+</div>
+<div id='generalRegPrompt'>
+<div class='connectPromptButton'>
+<a href="/user/sign_up?connect_prompt=true&amp;qotd_option=true" class="button orange">Join Goodreads</a>
+</div>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div>
+
+
+
+<h1>Brave New World Quotes</h1>
+<div class="leftContainer">
+  <div class="right">
+    <div class='wtrButtonContainer wtrSignedOut' id='1_book_5129'>
+<div class='wtrUp wtrLeft'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lqmnqce7t28RmOih3b27H/0xGkzD3OdjjnCA4e8qpK4=" /></div>
+<input id="book_id" name="book_id" type="hidden" value="5129" />
+<input id="name" name="name" type="hidden" value="to-read" />
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_5129" />
+<input id="wtr_new" name="wtr_new" type="hidden" value="true" />
+<button class='wtrToRead' type='submit'>
+<span class='progressTrigger'>Want to Read</span>
+<span class='progressIndicator'>saving…</span>
+</button>
+</form>
+
+</div>
+
+<div class='wtrDivider'></div>
+<div class='wtrRight'>
+<form accept-charset="UTF-8" action="/shelf/add_to_shelf" class="hiddenShelfForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lqmnqce7t28RmOih3b27H/0xGkzD3OdjjnCA4e8qpK4=" /></div>
+<input id="unique_id" name="unique_id" type="hidden" value="1_book_5129" />
+<input id="book_id" name="book_id" type="hidden" value="5129" />
+<input id="a" name="a" type="hidden" />
+<input id="name" name="name" type="hidden" />
+</form>
+
+<button class='wtrShelfButton wtrUp'>
+<img alt="pick shelf" src="http://s.gr-assets.com/assets/wtr_button/books-acd4be7ad0abc0c84e6f6aa4a937b68f.png" />
+</button>
+<div class='wtrShelfMenu'>
+<ul class='wtrExclusiveShelves'>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='to-read'>
+<span class='progressTrigger'>Want to Read</span>
+<img alt="saving…" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ff263fd8cb3b52205aacb9f5b25f82c8.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='currently-reading'>
+<span class='progressTrigger'>Currently Reading</span>
+<img alt="saving…" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ff263fd8cb3b52205aacb9f5b25f82c8.gif" />
+</button>
+</li>
+<li><button class='wtrExclusiveShelf' name='name' type='submit' value='read'>
+<span class='progressTrigger'>Read</span>
+<img alt="saving…" class="progressIndicator" src="http://s.gr-assets.com/assets/loading-trans-ff263fd8cb3b52205aacb9f5b25f82c8.gif" />
+</button>
+</li>
+</ul>
+</div> #div #html #nothing
+</div>
+
+<div class='ratingStars wtrRating'>
+<form accept-charset="UTF-8" action="/review/rate/5129.Brave_New_World" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="lqmnqce7t28RmOih3b27H/0xGkzD3OdjjnCA4e8qpK4=" /></div>
+<button class="greyText uitext myRating" disabled="disabled" name="button" type="submit">Rate this book</button>
+<div class='clearRating uitext'>Clear rating</div>
+<input id="rating" name="rating" type="hidden" value="0" />
+<input id="wtr_button_id" name="wtr_button_id" type="hidden" value="1_book_5129" />
+</form>
+
+<span class="stars" id="starsstars_for_1_book_5129" onmouseout="mouseOutStars('stars_for_1_book_5129')"><a rel="nofollow"><img alt="didn't like it " class="star" height="15" id="starstars_for_1_book_5129_0" onclick="submitStars('stars_for_1_book_5129', 0, '/review/rate/5129?rating=1&amp;wtr_button_id=1_book_5129', 0);  return false;" onmouseover="checkStars('stars_for_1_book_5129', 0)" src="http://s.gr-assets.com/assets/layout/gr_orange_star_inactive-5daab490c131eebbf3bb5030e1a67f13.png" title="didn't like it" width="15" /></a><a rel="nofollow"><img alt="it was ok " class="star" height="15" id="starstars_for_1_book_5129_1" onclick="submitStars('stars_for_1_book_5129', 1, '/review/rate/5129?rating=2&amp;wtr_button_id=1_book_5129', 0);  return false;" onmouseover="checkStars('stars_for_1_book_5129', 1)" src="http://s.gr-assets.com/assets/layout/gr_orange_star_inactive-5daab490c131eebbf3bb5030e1a67f13.png" title="it was ok" width="15" /></a><a rel="nofollow"><img alt="liked it " class="star" height="15" id="starstars_for_1_book_5129_2" onclick="submitStars('stars_for_1_book_5129', 2, '/review/rate/5129?rating=3&amp;wtr_button_id=1_book_5129', 0);  return false;" onmouseover="checkStars('stars_for_1_book_5129', 2)" src="http://s.gr-assets.com/assets/layout/gr_orange_star_inactive-5daab490c131eebbf3bb5030e1a67f13.png" title="liked it" width="15" /></a><a rel="nofollow"><img alt="really liked it " class="star" height="15" id="starstars_for_1_book_5129_3" onclick="submitStars('stars_for_1_book_5129', 3, '/review/rate/5129?rating=4&amp;wtr_button_id=1_book_5129', 0);  return false;" onmouseover="checkStars('stars_for_1_book_5129', 3)" src="http://s.gr-assets.com/assets/layout/gr_orange_star_inactive-5daab490c131eebbf3bb5030e1a67f13.png" title="really liked it" width="15" /></a><a rel="nofollow"><img alt="it was amazing " class="star" height="15" id="starstars_for_1_book_5129_4" onclick="submitStars('stars_for_1_book_5129', 4, '/review/rate/5129?rating=5&amp;wtr_button_id=1_book_5129', 0);  return false;" onmouseover="checkStars('stars_for_1_book_5129', 4)" src="http://s.gr-assets.com/assets/layout/gr_orange_star_inactive-5daab490c131eebbf3bb5030e1a67f13.png" title="it was amazing" width="15" /></a></span><script language="javascript" type="text/javascript">starRatings[ratingIndex++] = [ 'stars_for_1_book_5129', -1]; checkStars('stars_for_1_book_5129', -1);</script>
+</div>
+
+</div>
+
+  </div>
+
+	<a href="/book/show/5129.Brave_New_World" class="leftAlignedImage"><img alt="Brave New World" src="http://d.gr-assets.com/books/1327865608s/5129.jpg" /></a>
+  <a href="/book/show/5129.Brave_New_World" class="bookTitle">Brave New World</a>
+	<span class="by">by</span>
+	<a href="/author/show/3487.Aldous_Huxley" class="authorName">Aldous Huxley</a><br/>
+  483,108 ratings,
+  3.89
+  average rating, 8,390 reviews
+  <br/>
+	<a href="/work/compare_prices/3204877-brave-new-world" class="actionLink">buy a copy</a>
+
+  <div class="clear"></div>
+  <div class="mediumText">
+    Brave New World Quotes
+      <span class="smallText">
+(showing
+1-50
+of
+194)
+</span>
+  </div>
+
+
+  <div class="clear"></div>
+
+
+  	<div class="quotes">
+    	<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Words can be like X-rays if you use them properly -- they’ll go through anything. You read and you’re pierced.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/reading">reading</a>,
+       <a href="/quotes/tag/words">words</a>,
+       <a href="/quotes/tag/writing">writing</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/32781-words-can-be-like-x-rays-if-you-use-them-properly" class="smallText" title="View this quote">2,098 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/brave-new-world">brave-new-world</a>,
+       <a href="/quotes/tag/hunger">hunger</a>,
+       <a href="/quotes/tag/thirst">thirst</a>,
+       <a href="/quotes/tag/yearning">yearning</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/40797-but-i-don-t-want-comfort-i-want-god-i-want" class="smallText" title="View this quote">826 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Actual happiness always looks pretty squalid in comparison with the overcompensations for misery. And, of course, stability isn't nearly so spectacular as instability. And being contented has none of the glamour of a good fight against misfortune, none of the picturesqueness of a struggle with temptation, or a fatal overthrow by passion or doubt. Happiness is never grand.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/happiness">happiness</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/15411-actual-happiness-always-looks-pretty-squalid-in-comparison-with-the" class="smallText" title="View this quote">561 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;I want to know what passion is. I want to feel something strongly.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/passion">passion</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/32782-i-want-to-know-what-passion-is-i-want-to" class="smallText" title="View this quote">447 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;I like being myself. Myself and nasty.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/4435-i-like-being-myself-myself-and-nasty" class="smallText" title="View this quote">281 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;The real hopeless victims of mental illness are to be found among those who appear to be most normal. "Many of them are normal because they are so well adjusted to our mode of existence, because their human voice has been silenced so early in their lives, that they do not even struggle or suffer or develop symptoms as the neurotic does." They are normal not in what may be called the absolute sense of the word; they are normal only in relation to a profoundly abnormal society. Their perfect adjustment to that abnormal society is a measure of their mental sickness. These millions of abnormally normal people, living without fuss in a society to which, if they were fully human beings, they ought not to be adjusted.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/16335101">Brave New World Revisited</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/94257-the-real-hopeless-victims-of-mental-illness-are-to-be" class="smallText" title="View this quote">277 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;All that happens means something; nothing you do is ever insignificant.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/16335152">Crome Yellow</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/life">life</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/41414-all-that-happens-means-something-nothing-you-do-is-ever" class="smallText" title="View this quote">227 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;If one's different, one's bound to be lonely.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/loneliness">loneliness</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/282514-if-one-s-different-one-s-bound-to-be-lonely" class="smallText" title="View this quote">214 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;I am I, and I wish I weren't.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/72764-i-am-i-and-i-wish-i-weren-t" class="smallText" title="View this quote">213 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Chronic remorse, as all the moralists are agreed, is a most undesirable sentiment. If you have behaved badly, repent, make what amends you can and address yourself to the task of behaving better next time. On no account brood over your wrongdoing. Rolling in the muck is not the best way of getting clean.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/absolution">absolution</a>,
+       <a href="/quotes/tag/brooding">brooding</a>,
+       <a href="/quotes/tag/guilt">guilt</a>,
+       <a href="/quotes/tag/morality">morality</a>,
+       <a href="/quotes/tag/remorse">remorse</a>,
+       <a href="/quotes/tag/repentance">repentance</a>,
+       <a href="/quotes/tag/wallowing">wallowing</a>,
+       <a href="/quotes/tag/wrongdoing">wrongdoing</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/9406-chronic-remorse-as-all-the-moralists-are-agreed-is-a" class="smallText" title="View this quote">180 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Ironically enough, the only people who can hold up indefinitely under the stress of modern war are psychotics. Individual insanity is immune to the consequences of collective insanity.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/16335101">Brave New World Revisited</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/87313-ironically-enough-the-only-people-who-can-hold-up-indefinitely" class="smallText" title="View this quote">156 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;The Savage interrupted him. "But isn't it natural to feel there's a God?"<br /><br />    "You might as well ask if it's natural to do up one's trousers with zippers," said the Controller sarcastically. "You remind me of another of those old fellows called Bradley. He defined philosophy as the finding of bad reason for what one believes by instinct. As if one believed anything by instinct! One believes things because one has been conditioned to believe them. Finding bad reasons for what one believes for other bad reasons–that's philosophy. People believe in God because they've been conditioned to.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/religion">religion</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/7865-the-savage-interrupted-him-but-isn-t-it-natural-to-feel" class="smallText" title="View this quote">142 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;All right then," said the savage defiantly, I'm claiming the right to be unhappy."<br />"Not to mention the right to grow old and ugly and impotent; the right to have syphilis and cancer; the right to have too little to eat, the right to be lousy; the right to live in constant apprehension of what may happen tomorrow; the right to catch typhoid; the right to be tortured by unspeakable pains of every kind." <br />There was a long silence.<br />"I claim them all," said the Savage at last.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/brave">brave</a>,
+       <a href="/quotes/tag/new">new</a>,
+       <a href="/quotes/tag/world">world</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/72395-all-right-then-said-the-savage-defiantly-i-m-claiming-the" class="smallText" title="View this quote">118 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;No social stability without individual stability.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/society">society</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/13920-no-social-stability-without-individual-stability" class="smallText" title="View this quote">116 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;There was a thing called Heaven; but all the same they used to drink enormous quantities of alcohol.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/heaven">heaven</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/10104-there-was-a-thing-called-heaven-but-all-the-same" class="smallText" title="View this quote">101 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;...most men and women will grow up to love their servitude and will never dream of revolution.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/191742-most-men-and-women-will-grow-up-to-love-their" class="smallText" title="View this quote">94 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;There was a thing called Heaven; but all the same they used to drink enormous quantities of alcohol."<br />...<br />"There was a thing called the soul and a thing called immortality."<br />...<br />"But they used to take morphia and cocaine."<br />...<br />"Two thousand pharmacologists and biochemists were subsidized in A.F. 178."<br />...<br />"Six years later it was being produced commercially. The perfect drug."<br />...<br />"Euphoric, narcotic, pleasantly hallucinant."<br />...<br />"All the advantages of Christianity and alcohol; none of their defects."<br />...<br />"Take a holiday from reality whenever you like, and come back without so much as a headache or a mythology."<br />...<br />"Stability was practically assured.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/drugs">drugs</a>,
+       <a href="/quotes/tag/happiness">happiness</a>,
+       <a href="/quotes/tag/huxley">huxley</a>,
+       <a href="/quotes/tag/society">society</a>,
+       <a href="/quotes/tag/stability">stability</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/111152-there-was-a-thing-called-heaven-but-all-the-same" class="smallText" title="View this quote">85 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;The Savage nodded, frowning. "You got rid of them. Yes, that's just like you. Getting rid of everything unpleasant instead of learning to put up with it. Whether 'tis better in the mind to suffer the slings and arrows or outrageous fortune, or to take arms against a sea of troubles and by opposing end them...But you don't do either. Neither suffer nor oppose. You just abolish the slings and arrows. It's too easy."  <br /><br />   ..."What you need," the Savage went on, "is something <em>with</em> tears for a change. Nothing costs enough here.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/23306-the-savage-nodded-frowning-you-got-rid-of-them-yes" class="smallText" title="View this quote">81 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;...reality, however utopian, is something from which people feel the need of taking pretty frequent holidays....&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/reality">reality</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/63440-reality-however-utopian-is-something-from-which-people-feel-the" class="smallText" title="View this quote">78 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;I ate civilization. It poisoned me; I was defiled. And then," he added in a lower tone, "I ate my own wickedness.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/truth">truth</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/85382-i-ate-civilization-it-poisoned-me-i-was-defiled-and" class="smallText" title="View this quote">71 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;I'd rather be myself," he said. "Myself and nasty. Not somebody else, however jolly.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/128066-i-d-rather-be-myself-he-said-myself-and-nasty-not" class="smallText" title="View this quote">68 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;One believes things because one has been conditioned to believe them.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/244019-one-believes-things-because-one-has-been-conditioned-to-believe" class="smallText" title="View this quote">62 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;I want God, I want poetry, I want danger, I want freedom, I want sin.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/33063-i-want-god-i-want-poetry-i-want-danger-i" class="smallText" title="View this quote">59 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;What a gulf between impression and expression! That’s our ironic fate—to have Shakespearean feelings and (unless by some billion-to-one chance we happen to be Shakespeare) to talk about them like automobile salesmen or teen-agers or college professors. We practice alchemy in reverse—touch gold and it turns into lead; touch the pure lyrics of experience, and they turn into the verbal equivalents of tripe and hogwash.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/16335183">The Genius And The Goddess</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/87320-what-a-gulf-between-impression-and-expression-that-s-our-ironic" class="smallText" title="View this quote">58 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;One of the principal functions of a friend is to suffer (in a milder and symbolic form) the punishments what we should like, but are unable, to inflict upon our enemies.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/friendship">friendship</a>,
+       <a href="/quotes/tag/huxley">huxley</a>,
+       <a href="/quotes/tag/suffering">suffering</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/111155-one-of-the-principal-functions-of-a-friend-is-to" class="smallText" title="View this quote">58 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;God isn't the son of Memory; He's the son of Immediate Experience. You can't worship a spirit in spirit, unless you do it now. Wallowing in the past may be good literature. As wisdom, it's hopeless. Time Regained is Paradise Lost, and Time Lost is Paradise Regained. Let the dead bury their dead. If you want to live at every moment as it presents itself, you've got to die to every other moment.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/16335183">The Genius And The Goddess</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/death">death</a>,
+       <a href="/quotes/tag/experience">experience</a>,
+       <a href="/quotes/tag/god">god</a>,
+       <a href="/quotes/tag/huxley">huxley</a>,
+       <a href="/quotes/tag/wisdom">wisdom</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/111159-god-isn-t-the-son-of-memory-he-s-the-son-of" class="smallText" title="View this quote">55 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Great is truth, but still greater, from a practical point of view, is silence about truth.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/truth">truth</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/32779-great-is-truth-but-still-greater-from-a-practical-point" class="smallText" title="View this quote">54 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Why do you love the woman you're in love with? Because she is. And that, after all, is God's own definition of Himself; I am that I am. The girl is who she is. Some of her isness spills over and impregnates the entire universe. Objects and events cease to be mere representations of classes and become their own uniqueness; cease to be illustrations of verbal abstractions and become fully concrete. Then you stop being in love, and the universe collapses, with an almost audible squeak of derision, into its normal insignificance.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/16335183">The Genius And The Goddess</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/huxley">huxley</a>,
+       <a href="/quotes/tag/love">love</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/111158-why-do-you-love-the-woman-you-re-in-love-with" class="smallText" title="View this quote">52 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Ending is better than mending.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/sustainability">sustainability</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/13918-ending-is-better-than-mending" class="smallText" title="View this quote">48 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;We are not our own any more than what we possess is our own. We did not make ourselves, we cannot be supreme over ourselves. We are not our own masters.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/51305-we-are-not-our-own-any-more-than-what-we" class="smallText" title="View this quote">46 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Isn't there something in living dangerously?'<br /><br />There's a great deal in it,' the Controller replied.  'Men and women must have their adrenals stimulated from time to time.'<br /><br />What?' questioned the Savage, uncomprehending.<br /><br />It's one of the conditions of perfect health.  That's why we've made the V.P.S. treatments compulsory.'<br /><br />V.P.S.?'<br /><br />Violent Passion Surrogate.  Regularly once a month.  We flood the whole system with adrenin.  It's the complete physiological equivalent of fear and rage.  All the tonic effects of murdering Desdemona and being murdered by Othello, without any of the inconvenience.'<br /><br />But I like the inconveniences.'<br /><br />We don't,' said the Controller.  'We prefer to do things comfortably.'<br /><br />But I don't want comfort.  I want God, I want poetry, I want real danger, I want freedom, I want goodness.  I want sin.'<br /><br />In fact,' said Mustapha Mond, 'you're claiming the right to be unhappy. Not to mention the right to grow old and ugly and impotent; the right to have syphilis and cancer, the right to have too little to eat; the right to be lousy; the right to live in constant apprehension of what may happen tomorrow; the right to catch typhoid; the right to be tortured by unspeakable pains of every kind.'  There was a long silence.<br /><br />I claim them all,' said the Savage at last.<br /><br />Mustapha Mond shrugged his shoulders.  'You're welcome,' he said.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/174613-isn-t-there-something-in-living-dangerously-there-s-a-great-deal" class="smallText" title="View this quote">41 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Pain was a fascinating horror&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/pain">pain</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/132011-pain-was-a-fascinating-horror" class="smallText" title="View this quote">34 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;A love of nature keeps no factories busy.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/145077-a-love-of-nature-keeps-no-factories-busy" class="smallText" title="View this quote">31 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;When people are suspicious with you, you start being suspicious with them.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/247549-when-people-are-suspicious-with-you-you-start-being-suspicious" class="smallText" title="View this quote">30 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Universal happiness keeps the wheels steadily turning, truth and beauty can't.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/73178-universal-happiness-keeps-the-wheels-steadily-turning-truth-and-beauty" class="smallText" title="View this quote">28 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Most human beings have an almost infinite capacity for taking things for granted.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/465224-most-human-beings-have-an-almost-infinite-capacity-for-taking" class="smallText" title="View this quote">26 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Human beings act in a great variety of irrational ways, but all of them seem to be capable, if given a fair chance, of making a reasonable choice in the light of available evidence. Democratic institutions can be made to work only if all concerned do their best to impart knowledge and to encourage rationality. But today, in the world's most powerful democracy, the politicians and the propagandists prefer to make nonsense of democratic procedures by appealing almost exclusively to the ignorance and irrationality of the electors.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/16335101">Brave New World Revisited</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/75660-human-beings-act-in-a-great-variety-of-irrational-ways" class="smallText" title="View this quote">26 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;It is natural to believe in God when you're alone-- quite alone, in the night, thinking about death.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/286566-it-is-natural-to-believe-in-god-when-you-re-alone--" class="smallText" title="View this quote">24 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;What’s the point of truth or beauty or knowledge when anthrax bombs are popping all around you?&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/32784-what-s-the-point-of-truth-or-beauty-or-knowledge-when" class="smallText" title="View this quote">22 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;An unexciting truth may be eclipsed by a thrilling falsehood.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/16335101">Brave New World Revisited</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/lie">lie</a>,
+       <a href="/quotes/tag/truth">truth</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/218621-an-unexciting-truth-may-be-eclipsed-by-a-thrilling-falsehood" class="smallText" title="View this quote">22 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;It isn’t only art that is incompatible with happiness, it’s also science. Science is dangerous, we have to keep it most carefully chained and muzzled.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/32783-it-isn-t-only-art-that-is-incompatible-with-happiness-it-s" class="smallText" title="View this quote">21 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;In regard to propaganda the early advocates of universal literacy and a free press envisaged only two possibilities: the propaganda might be true, or the propaganda might be false. They did not foresee what in fact has happened, above all in our Western capitalist democracies - the development of a vast mass communications industry, concerned in the main neither with the true nor the false, but with the unreal, the more or less totally irrelevant. In a word, they failed to take into account  man's almost infinite appetite for distractions.<br />In the past most people never got a chance of fully satisfying this appetite. They might long for distractions, but the distractions were not provided. Christmas came but once a year, feasts were "solemn and rare," there were few readers and very little to read, and the nearest approach to a neighborhood movie theater  was the parish church, where the performances though frequent, were somewhat monotonous. For conditions even remotely comparable to those now prevailing we must return to imperial Rome, where the populace was kept in good humor by frequent, gratuitous doses of many kinds of entertainment - from poetical dramas to gladiatorial fights, from recitations of Virgil to all-out boxing, from concerts to military reviews and public executions. But even in Rome there was nothing like the non-stop distractions now provided by newspapers and magazines, by radio, television and the cinema. In "Brave New World" non-stop distractions of the most fascinating nature are deliberately used as instruments of policy, for the purpose of preventing people from paying too much attention to the realities of the social and political situation. The other world of religion is different from the other world of entertainment; but they resemble one another in being most decidedly "not of this world." Both are distractions and, if lived in too continuously, both can become, in Marx's  phrase "the opium of the people" and so a threat to freedom. Only the vigilant can maintain their liberties, and only those who are constantly and intelligently on the spot can hope to govern themselves effectively by democratic procedures. A society, most of whose members spend a great part of their time, not on the spot, not here and now and in their calculable future, but somewhere else, in the irrelevant other worlds of sport and soap opera, of mythology and metaphysical fantasy, will find it hard to resist the encroachments of those would manipulate and control it.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/16335101">Brave New World Revisited</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/75681-in-regard-to-propaganda-the-early-advocates-of-universal-literacy" class="smallText" title="View this quote">20 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;The soul of wit may become the very body of untruth. However elegant and memorable, brevity can never, in the nature of things, do justice to all the facts of a complex situations. On such a theme one can be brief only by omission and simplification. Omission and simplification help us to understand - but help is, in many cases, to understand the wrong thing; for our comprehension may be only of the abbreviator's neatly formulated notions, not of the vast, ramifying reality from which these notions have been so arbitrarily abstracted.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/16335101">Brave New World Revisited</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/real-life">real-life</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/15363-the-soul-of-wit-may-become-the-very-body-of" class="smallText" title="View this quote">18 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;A really efficient totalitarian state would be one in which the all-powerful executive of political bosses and their army of managers control a population of slaves who do not have to be coerced, because they love their servitude.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/85016-a-really-efficient-totalitarian-state-would-be-one-in-which" class="smallText" title="View this quote">18 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Impulse arrested spills over, and the flood is feeling, the flood is passion, the flood is even madness: it depends on the force of the current, the height and strength of the barrier. The unchecked stream flows smoothly down its appointed channels into a calm well being.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/32780-impulse-arrested-spills-over-and-the-flood-is-feeling-the" class="smallText" title="View this quote">17 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Those who meant well behaved in the same way as those who meant badly.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/19254-those-who-meant-well-behaved-in-the-same-way-as" class="smallText" title="View this quote">16 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Did you eat something that didn't agree with you?" asked Bernard. The Savage nodded "I ate civilization.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/319270-did-you-eat-something-that-didn-t-agree-with-you-asked" class="smallText" title="View this quote">15 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness, I want sin.'<br />'In fact,' said Mustapha Mond, 'you're claiming the right to be unhappy.'  <br />'All right then,' said the Savage defiantly, 'I'm claiming the right to be unhappy.'  <br />'Not to mention the right to grow old and ugly and impotent; the right to have syphilis and cancer; the right to have too little to eat; the right to be lousy; the right to live in constant apprehension of what may happen tomorrow; the right to catch typhoid; the right to be tortured by unspeakable pains of every kind.' <br />There was a long silence.  'I claim them all,' said the Savage at last.<br />Mustapha Mond shrugged his shoulders. "You're welcome," he said.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="greyText smallText left">
+     tags:
+       <a href="/quotes/tag/choice">choice</a>,
+       <a href="/quotes/tag/freedom">freedom</a>,
+       <a href="/quotes/tag/happiness">happiness</a>,
+       <a href="/quotes/tag/rights">rights</a>,
+       <a href="/quotes/tag/unhappiness">unhappiness</a>
+   </div>
+   <div class="right">
+     <a href="/quotes/297074-but-i-don-t-want-comfort-i-want-god-i-want" class="smallText" title="View this quote">15 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;In a properly organized society like ours, nobody has any oppurtunities for being noble or heroic. Conditions have got to be thouroughly unstable before the occasion can arise. When there are wars, where there are divided allegiances, where there are temptations to be resisted, objects of love to be fought for or defended - there, obviously, nobility and heroism have some sense. But there aren't any wars nowadays. The greatest care is taken to prevent you from loving anyone too much. There's no such thing as a divided allegiance; you're so conditioned that you can't help doing what you ought to do. And what you ought to do is on the whole so pleasant, so many of the natural impulses are allowed free paly, that there really aren't any temptations ro resist. And if ever, by some unlucky chance, anything unpleasant should somehow happen, why, there's always soma to give you a holiday from the facts. And there's always soma to calm your anger, to reconcile you to your enemies, to make you patient and long-suffering. In the past you could only accomplish these things by making a great effort and after years of hard moral training. now, you swallow two or three half-gramme tablets, and there you are. Anybody can be virtous now. You can carry at least half your mortality about in a bottle. Christianity without tears - that's what soma is.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/244021-in-a-properly-organized-society-like-ours-nobody-has-any" class="smallText" title="View this quote">14 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+<div class='quote'>
+<div class='quoteDetails'>
+
+
+<div class="quoteText">
+      &ldquo;Man is an intelligence, not served by, but in servitude to his organs.&rdquo;
+  <br>  &#8213;
+    <a href="/author/show/3487.Aldous_Huxley">Aldous Huxley</a>,
+    <i>
+      <a href="/work/quotes/3204877">Brave New World</a>
+    </i>
+</div>
+
+
+<div class="quoteFooter">
+   <div class="right">
+     <a href="/quotes/126547-man-is-an-intelligence-not-served-by-but-in-servitude" class="smallText" title="View this quote">14 people liked it</a>
+   </div>
+</div>
+
+
+</div>
+<div class='action'>
+<a href="/user/new" class="button" rel="nofollow">like</a>
+</div>
+</div>
+
+  	</div>
+
+	<br/>
+
+	<div style="text-align: right; width: 100%">
+		<div><span class="previous_page disabled">&laquo; previous</span> <em class="current">1</em> <a rel="next" href="/work/quotes/3204877-brave-new-world?page=2">2</a> <a href="/work/quotes/3204877-brave-new-world?page=3">3</a> <a href="/work/quotes/3204877-brave-new-world?page=4">4</a> <a class="next_page" rel="next" href="/work/quotes/3204877-brave-new-world?page=2">next &raquo;</a></div>
+
+	</div>
+</div>
+
+<div class="rightContainer">
+	
+<form accept-charset="UTF-8" action="/quotes/search" class="quoteSearchForm box greyBox" method="get" name="quoteSearchForm"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+	<label class="mainLabel">Find quotes</label>
+	<input class="text greyText" id="explore_search_query" name="q" type="text" />        <script type="text/javascript" charset="utf-8">
+          setDefaultText('explore_search_query', 'Keyword, Author')
+        </script>
+
+	<input class="searchButton button" name="commit" type="submit" value="Search" />
+</form>
+
+  <p>
+  	<a href="/quotes" class="actionLinkLite">All Quotes</a>
+  	<br />
+  	<a href="/author/quotes/3487.Aldous_Huxley" class="actionLinkLite">Quotes By Aldous Huxley</a><br/>
+
+	  <a href="/games/quotes" class="actionLinkLite" rel="nofollow">Play The 'Guess That Quote' Game</a>
+  </p>
+
+	<br/>
+  
+  <script language="JavaScript">
+    GA_googleAddSlot("ca-pub-7284881071421289", "Quote_page")
+  </script>
+  <script language="JavaScript">
+    GA_googleFetchAds()
+  </script>
+  <script language="JavaScript">
+    GA_googleFillSlot("Quote_page")
+  </script>
+
+<br/>
+  <div id="self_serve_ads"></div>
+</div>
+
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+
+  <div class="clear"></div>
+  <div class="footerContainer">
+    <div class="footer">
+      <div class="copyright">
+        &copy; 2013 Goodreads Inc
+      </div>
+      <div class="adminLinksContainer">
+        <ul class="adminLinks">
+          <li>
+            <a href="/about/us" class="first" rel="nofollow">about us</a>
+          </li>
+          <li>
+            <a href="/advertisers" rel="nofollow">advertise</a>
+          </li>
+          <li>
+            <a href="/author/program" rel="nofollow">author program</a>
+          </li>
+          <li>
+            <a href="/jobs" rel="nofollow">jobs</a>
+          </li>
+          <li>
+            <a href="/api" rel="nofollow">api</a>
+          </li>
+          <li>
+            <a href="/blog">our blog</a>
+          </li>
+          <li>
+            <a href="/about/terms" rel="nofollow">terms</a>
+          </li>
+          <li>
+            <a href="/about/privacy" rel="nofollow">privacy</a>
+          </li>
+          <li>
+            <a href="/help" class="last" rel="nofollow">help</a>
+          </li>
+        </ul>
+        <br/><br/>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="overlay" style="display:none" onclick="Lightbox.hideBox('dropout')"></div>
+<div id="box" style="display:none">
+	<img id="close" src="/assets/close.gif" onclick="Lightbox.hideBox('dropout')" alt="Close" title="Close this window" />
+	<div id="boxContents"></div>
+	<div id="boxContentsLeftovers" style="display:none"></div>
+	<a class="right actionLinkLite smallText greyText" href="#" id="lightBoxRightClose" onclick="Lightbox.hideBox('dropout'); return false;" style="padding:10px">close</a>
+	<div class="clear"></div>
+</div>
+  <div id='fbSigninNotification' style='display:none;'>
+    <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
+    <img alt="Login_animation" src="http://s.gr-assets.com/assets/facebook/login_animation-1660888fb1250000f8a98b7bb0987b0e.gif" />
+  </div>
+
+
+    <script type="text/javascript" src="http://bookads2.goodreads.com/ad?gtargeting=1&amp;p=quotes&amp;sid=c9a0528fc50c8ffa5aba21035d80b93a&amp;uid=false">
+    </script>
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+  function loadFacebookScripts() {
+    
+  }
+
+  window._fb_app_id = '2415071772';
+
+  window._gr_session = 'false'
+  window._no_gr_account = 'false'
+  window._suppress_auto_login = ""
+
+  window.fbAsyncInit = function() {
+    GR_Facebook.initialize();
+    loadFacebookScripts();
+  };
+
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+
+  <script type="text/javascript">
+//<![CDATA[
+
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+//]]>
+</script>  <script type="text/javascript">
+//<![CDATA[
+
+    try {
+      var pageTracker = _gat._createTracker("UA-968618-1");
+      pageTracker._setCustomVar(1, "User Status", "signed_out", 2);
+      pageTracker._trackPageview();
+    }
+    catch(err) {}
+
+//]]>
+</script>
+  <script type="text/javascript">
+//<![CDATA[
+
+    _qoptions={
+    qacct:"p-0dUe_kJAjvkoY"
+    };
+
+//]]>
+</script>  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+  <noscript>
+  <img src="http://pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+
+  <script type="text/javascript">
+//<![CDATA[
+
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+
+//]]>
+</script>
+  <script type="text/javascript">
+//<![CDATA[
+
+    COMSCORE.beacon({
+      c1:2,
+      c2:6035830,
+      c3:"",
+      c4:"",
+      c5:"",
+      c6:"",
+      c15:""
+    });
+
+//]]>
+</script>  <noscript>
+    <img src="http://b.scorecardresearch.com/b?c1=2&c2=6035830&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
+  </noscript>
+
+</body>
+</html>
