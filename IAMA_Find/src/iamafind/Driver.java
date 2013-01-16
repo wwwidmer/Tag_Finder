@@ -1,8 +1,8 @@
 package iamafind;
 
+import java.io.File;
 import java.io.IOException;
-
-//import java.util.Scanner;
+import java.util.Stack;
 
 public class Driver {
 
@@ -10,29 +10,29 @@ public class Driver {
 	 * Program that uses input to search for specific document contents and
 	 * returns those documents. Driver class to decide which document to read.
 	 * 
-	 * Ultimately the documents will be chosen by a series of tags within them.
-	 * Different tags are identified in the tokenizer class and written to a
-	 * file. The document class is the originals document being read. For
-	 * example an HTML "Document" will exist as a document object and will be
-	 * linked to "Document_TAG.text".
+	 *
 	 * 
 	 * Everything can @throw an IOException
 	 */
 
-	public static void main(String[] args) throws IOException {
-		Document d = new Document("src/documents/Document1.txt");
-		d.findTag("div");
-		System.gc();
-		System.exit(0);
+	public static void main(String[] args) throws IOException {		
+		new GUI(documenter());
 	}
+
+	public static Stack<Document> documenter() throws IOException {
+		final File folder = new File("/src/documents/");
+		Stack<Document> dFolder = new Stack<Document>();
 	
-	public static Document[] documenter(){
-		Document[] folder = null;
 		
-		
-		
-		
-		return folder;		
+		for (final File fileEntry : folder.listFiles()) {
+			System.out.println(fileEntry.getName());
+			if (fileEntry.isFile()) {
+				dFolder.push(new Document(fileEntry.getName()));
+			}
+
+		}
+
+		return dFolder;
 	}
 
 }
