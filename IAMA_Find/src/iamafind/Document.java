@@ -8,8 +8,10 @@ import java.util.Stack;
 public class Document {
 
 	private Stack<String> _tags;
+	private String _fn;
 
 	public Document(String fileName) throws IOException {
+		_fn = fileName;
 		Tokenizer tokener = new Tokenizer(fileName);
 		_tags = tokener.getTags();
 		writeFile(fileName);
@@ -34,7 +36,7 @@ public class Document {
 	}
 
 	/*
-	 * Creates file representing the Tags
+	 * Creates file representing the Tags and adds tags to them
 	 */
 
 	private void writeFile(String fn) {
@@ -51,7 +53,7 @@ public class Document {
 	}
 
 	/*
-	 * Writes tags to the file
+	 * Creates a string which is filled with every Tag found in the file
 	 */
 
 	private String writeTagToFile() {
@@ -63,5 +65,9 @@ public class Document {
 			s += " ";
 		}
 		return s;
+	}
+
+	public String toString() {
+		return _fn;
 	}
 }

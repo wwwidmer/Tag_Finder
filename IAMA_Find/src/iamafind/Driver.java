@@ -20,18 +20,16 @@ public class Driver {
 	}
 
 	public static Stack<Document> documenter() throws IOException {
-		final File folder = new File("/src/documents/");
+		File folder = new File("src/documents");
 		Stack<Document> dFolder = new Stack<Document>();
-	
-		
-		for (final File fileEntry : folder.listFiles()) {
-			System.out.println(fileEntry.getName());
-			if (fileEntry.isFile()) {
-				dFolder.push(new Document(fileEntry.getName()));
+				
+		for (File f : folder.listFiles()) {
+			System.out.println(f.getName());
+			if (f.isFile()) {
+				dFolder.push(new Document(f.getName()));
 			}
 
 		}
-
 		return dFolder;
 	}
 

@@ -19,6 +19,8 @@ public class Tokenizer {
 	 */
 
 	public Tokenizer(String aFileName) throws IOException {
+		String ss = "src/documents/";
+		aFileName=ss+aFileName;
 		System.out.println("File Path: " + aFileName);
 		Stack<String> tags = new Stack<String>();
 		_tags = tags;
@@ -50,7 +52,9 @@ public class Tokenizer {
 	 */
 
 	private void TagScanner(String aFileName) throws IOException {
+		
 		Path path = Paths.get(aFileName);
+		
 		try (Scanner scanner = new Scanner(path, ENCODING.name())) {
 			StringTokenizer parser;
 			while (scanner.hasNextLine()) {
