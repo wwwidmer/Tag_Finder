@@ -8,7 +8,7 @@ public class Driver {
 
 	/**
 	 * Program that uses input to search for specific document contents and
-	 * returns those documents. Driver class to decide which document to read.
+	 * returns those documents.
 	 * 
 	 *
 	 * 
@@ -19,6 +19,10 @@ public class Driver {
 		new GUI(documenter());
 	}
 
+	/*
+	 * This method takes all the documents in a folder and adds them to a stack
+	 * to allow easy access for them later.
+	 */
 	public static Stack<Document> documenter() throws IOException {
 		File folder = new File("src/documents");
 		Stack<Document> dFolder = new Stack<Document>();

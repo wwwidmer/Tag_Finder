@@ -16,6 +16,7 @@ public class GUI implements ActionListener{
 
 	private Stack<Document> _d;
 	private String _wbc;
+	private JTextArea _jt;
 
 	public GUI(Stack<Document> d) {
 		_d = d;
@@ -27,11 +28,11 @@ public class GUI implements ActionListener{
 		empty.setPreferredSize(new Dimension(400, 400));
 		
 		
-		empty.add(amaButton());		
+		empty.add(amaButton());			
 		
-		JTextArea lk = stackShow();
-	
-		empty.add(lk);
+		_jt=new JTextArea("");		
+		
+		empty.add(_jt);
 		
 		frame.getContentPane().add(empty, BorderLayout.NORTH);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -40,14 +41,6 @@ public class GUI implements ActionListener{
 
 	}
 	
-	/*
-	 * 
-	 */
-	
-	private JTextArea stackShow() {
-		String look = "Documents being queried ";
-		return new JTextArea(look);
-	}
 
 	/*
 	 * Radio button to determine a,b,c tags
@@ -72,23 +65,37 @@ public class GUI implements ActionListener{
 
 		return p;
 	}
+	
+	/*
+	 * Changes what tag is being searched for 
+	 */
+	
+	private void changeSearch(String s){
+		_wbc=s;
+		searchForTag(_wbc);
+	}
+	
+	/*
+	 * Accesses documents inside the stack and searches through them for a specific tag
+	 */
 
-	private void searchForTag(String s){
+	private void searchForTag(String s){		
 		Stack<Document> d = _d;
-		
+		String JT="";
 		while(!d.isEmpty()){
-			System.out.println("searching for "+ s + " in " + d.peek());
-			d.peek().findTag(s);
+			System.out.println("searching for "+ s + " in " + d.peek());			
+			JT+=d.peek().findTag(s);
 			d.pop();
 		}
-		
-		
+		_jt.setText(JT);		
 	}
 	
 	// Listener to find out which radio buttons are pressed
 	@Override
+	
 	public void actionPerformed(ActionEvent e) {
-		searchForTag("a");		
+		_jt.setText(null);
+		changeSearch("a");	
 	}	
 
 }

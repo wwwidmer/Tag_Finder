@@ -5,6 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Stack;
 
+
 public class Document {
 
 	private Stack<String> _tags;
@@ -22,17 +23,20 @@ public class Document {
 	 * Finds tags in the tag file, if they exist and returns a boolean
 	 */
 
-	public boolean findTag(String t) {
+	public String findTag(String t) {
 		@SuppressWarnings("unchecked")
 		Stack<String> tags = (Stack<String>) _tags.clone();
+		String toJT="";
 		while (!tags.isEmpty()) {
 			if (tags.peek().equals(t)) {
-				System.out.println(t + ": found tag");
-				return true;
+				toJT+="Found:"+t+" in "+_fn+" ";
+				System.out.println(t + ": found tag");				 
+				break;
 			} else
 				tags.pop();
 		}
-		return false;
+		
+		return toJT;
 	}
 
 	/*
