@@ -2,9 +2,8 @@ package iamafind;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
+import java.awt.Font;
 import java.awt.GridLayout;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.util.Stack;
 import javax.swing.*;
 
@@ -12,35 +11,31 @@ import javax.swing.*;
  * Graphical User Interface made using Java Swing
  */
 
-public class GUI implements ActionListener{
+public class GUI {
 
 	private Stack<Document> _d;
-	private String _wbc;
 	private JTextArea _jt;
 
 	public GUI(Stack<Document> d) {
 		_d = d;
-		_wbc="";
 
 		JFrame frame = new JFrame("TAG");
-		JPanel empty = new JPanel();
+		JPanel empt = new JPanel();
 
-		empty.setPreferredSize(new Dimension(400, 400));
-		
-		
-		empty.add(amaButton());			
-		
-		_jt=new JTextArea("");		
-		
-		empty.add(_jt);
-		
-		frame.getContentPane().add(empty, BorderLayout.NORTH);
+		empt.setPreferredSize(new Dimension(400, 400));
+		empt.add(amaButton());
+
+		_jt = new JTextArea("");
+		_jt.setFont(new Font("Courier New", Font.PLAIN, 10));
+
+		empt.add(_jt);
+
+		frame.getContentPane().add(empt, BorderLayout.NORTH);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.pack();
 		frame.setVisible(true);
 
 	}
-	
 
 	/*
 	 * Radio button to determine a,b,c tags
@@ -48,14 +43,16 @@ public class GUI implements ActionListener{
 
 	private JComponent amaButton() {
 		JPanel p = new JPanel(new GridLayout(0, 1));
+
 		JRadioButton butona = new JRadioButton("a");
-		butona.addActionListener(this);
+		butona.addActionListener(new aListener(this));
 		JRadioButton butonb = new JRadioButton("b");
-		butonb.addActionListener(this);
+		butonb.addActionListener(new bListener(this));
 		JRadioButton butonc = new JRadioButton("c");
-		butonc.addActionListener(this);
+		butonc.addActionListener(new cListener(this));
+
 		ButtonGroup ama = new ButtonGroup();
-		
+
 		ama.add(butona);
 		ama.add(butonc);
 		ama.add(butonb);
@@ -65,37 +62,32 @@ public class GUI implements ActionListener{
 
 		return p;
 	}
-	
+
 	/*
-	 * Changes what tag is being searched for 
-	 */
-	
-	private void changeSearch(String s){
-		_wbc=s;
-		searchForTag(_wbc);
-	}
-	
-	/*
-	 * Accesses documents inside the stack and searches through them for a specific tag
+	 * Changes what tag is being searched for, accessed and used by button
+	 * Listeners
 	 */
 
-	private void searchForTag(String s){		
-		Stack<Document> d = _d;
-		String JT="";
-		while(!d.isEmpty()){
-			System.out.println("searching for "+ s + " in " + d.peek());			
-			JT+=d.peek().findTag(s);
+	public void changeSearch(String s) {
+		_jt.setText("");
+		searchForTag(s);
+	}
+
+	/*
+	 * Accesses documents inside the stack and searches through them for a
+	 * specific tag
+	 */
+
+	@SuppressWarnings("unchecked")
+	private void searchForTag(String s) { 
+		Stack<Document> d = (Stack<Document>) _d.clone();
+		String jT = "";
+		while (!d.isEmpty()) {
+			System.out.println("searching for " + s + " in " + d.peek());
+			jT += d.peek().findTag(s);
+			jT += System.getProperty("line.separator");
 			d.pop();
 		}
-		_jt.setText(JT);		
+		_jt.append(jT);
 	}
-	
-	// Listener to find out which radio buttons are pressed
-	@Override
-	
-	public void actionPerformed(ActionEvent e) {
-		_jt.setText(null);
-		changeSearch("a");	
-	}	
-
 }
